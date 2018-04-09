@@ -1,0 +1,1 @@
+java -cp .:target/AWSMetadata.jar com.bauenecp.CreateNatGateway vpc-e5b2a59c subnet-64f65200 rtb-e584d09e 0.0.0.0/0

@@ -1,0 +1,1 @@
+java -cp .:target/AWSMetadata.jar com.bauenecp.DeleteNatGateway vpc-e5b2a59c rtb-e584d09e 0.0.0.0/0
