@@ -1,2 +1,6 @@
 # AWSMetadata
-AWSMetadata via lambda
+AWSMetadata via lambda - nix based.
+
+Robert Nev (@rwnevinger)
+Randy Amiel (@ramiel)
+
